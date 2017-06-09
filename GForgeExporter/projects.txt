@@ -1,0 +1,17 @@
+android
+lddi
+middleware
+nativeandroid
+new_services
+ontologies
+rinterop
+service
+support
+techplugins
+uaal_context
+uaalexe
+uaalmodel
+uaalsecurity
+uaaltools
+uaal_ui
+uaalustore
